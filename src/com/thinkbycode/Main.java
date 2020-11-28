@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Hello World!!");
 
         System.out.println("Made this commit in feature-1 branch cut from master");
+
+        System.out.println("Another commit in feature-1 branch");
     }
 }
